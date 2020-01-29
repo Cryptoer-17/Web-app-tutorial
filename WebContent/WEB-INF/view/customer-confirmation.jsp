@@ -22,6 +22,8 @@ The customer is confirmed: ${customer.firstName} ${customer.lastName}
 FreePasses : ${customer.freePasses} 
 <br>
 Postal Code: ${customer.postalCode}
+<br>
+Course Code: ${customer.courseCode}
 </body>
 
 
